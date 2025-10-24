@@ -313,3 +313,8 @@ def get_job_by_id(job_id: str):
 
     except Exception as e:
         return {"error": f"Erreur lors de la recherche du job {job_id}: {str(e)}"}
+
+
+@app.get("/")
+def root():
+    return {"message": "🚀 FastAPI backend is running successfully on Render!"}

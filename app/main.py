@@ -34,13 +34,8 @@ es = Elasticsearch(
     api_key=os.getenv("ELASTIC_API_KEY_ID")
 )
 
-model = None
+model = SentenceTransformer("sentence-transformers/paraphrase-MiniLM-L3-v2")
 
-def get_model():
-    global model
-    if model is None:
-        model = SentenceTransformer('all-MiniLM-L6-v2')
-    return model
 
 # Configuration Adzuna
 ADZUNA_APP_ID = os.getenv("ADZUNA_APP_ID")
@@ -143,7 +138,6 @@ def index_jobs(jobs):
     """Indexe les offres dans Elasticsearch"""
     for job in jobs:
         text_to_embed = f"{job.get('title', '')}. {job.get('description', '')}. {job.get('company', '')}. {job.get('location', '')}. salary min:{job.get('salary_min','')}. salary_max:{job.get('salary_max','')}. post date: ${job.get('created','')}"
-        model=get_model()
         embedding = model.encode(text_to_embed)
 
         doc = {
@@ -194,7 +188,6 @@ def semantic_search(query, top_k=5):
 
     #prompt = f"Écris une phrase sur le coucher du soleil. '${query}'"
     #query = model.generate_content(prompt)
-    model=get_model()
 
     query_vector =  model.encode(query)
 

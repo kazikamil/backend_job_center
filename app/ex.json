@@ -1,0 +1,112 @@
+{
+  "job_id": "EgCzjQDRSADDZ8E1AAAAAA==",
+  "job_title": "Java Developer",
+  "employer_name": "Charles Schwab",
+  "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjLZJv0c4eUiAPTL24rSh52v-541rhsjwKrZ1E&s=0",
+  "employer_website": "https://www.schwab.com",
+  "job_publisher": "Schwab Jobs",
+  "job_employment_type": "Full-time",
+  "job_employment_types": ["FULLTIME"],
+  "job_apply_link": "https://www.schwabjobs.com/job/chicago/java-developer/33727/87491883312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+  "job_apply_is_direct": false,
+  "apply_options": [
+    {
+      "publisher": "Schwab Jobs",
+      "apply_link": "https://www.schwabjobs.com/job/chicago/java-developer/33727/87491883312?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "TPA Technologies",
+      "apply_link": "https://tpatechnologies.com/job/13282-sr-associate-java-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "Dice",
+      "apply_link": "https://www.dice.com/job-detail/2f3ee72a-4679-4f47-9751-ef151005bc4a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "Indeed",
+      "apply_link": "https://www.indeed.com/viewjob?jk=8d1e01619023143f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": true
+    },
+    {
+      "publisher": "Whiztek Corp",
+      "apply_link": "https://whiztekcorp.com/jobs/java-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "Interim Jobs | Korn Ferry",
+      "apply_link": "https://interimjobs.kornferry.com/jobs/java-developer-1681570?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "Talent Smart",
+      "apply_link": "https://jobs.talentsmart.co.in/jobs/147720-java-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    },
+    {
+      "publisher": "Monster",
+      "apply_link": "https://www.monster.com/job-openings/java-developer-chicago-il--c4673865-75c0-4992-ae35-f69862ab7a03?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "is_direct": false
+    }
+  ],
+  "job_description": "Your opportunity\n\nAt Schwab, you’re empowered to make an impact on your career. Here, innovative thought meets creative problem solving, helping us “challenge the status quo” and transform the finance industry together. We believe in the importance of in-office collaboration and fully intend for the selected candidate for this role to work on site in the specified location(s).\n\nCharles Schwab Investment Management Technology provides application strategy, development and support for the Investment Management teams located in San Francisco CA, Denver CO and Chicago IL. Applications support the investment life cycle to include front office functions such as Equity and Fixed Income Trading, Portfolio Management, Investment Risk and Trade Compliance.\n\nWe are looking for a senior developer with demonstrated ability to develop/test applications within the financial space in a data centric environment. This is a senior level individual contributor position aimed at delivering development to the Investment Advisory team. Additionally, this role will perform the security champion for the group.\n• Above all else you’re an engineer and a full stack developer (Data-Services-UI). You solve problems through building a robust, stable, secure application development. You’re curious and hungry to learn new things and look to make a long-lasting impact on the project.\n• You developed features and unit tested complex systems in the past. You have experience testing web applications (Angular) and data (SQL). You are strong in Java, Spring, Struts know how to create your own REST services (in any language) and are familiar with parsing JSON and XML.\n• You worked in an Agile environment in the past. Iterative feature development and working as part of a distributed engineering team doesn’t scare you.\n• You contribute to open-source projects. If you have github.com contributions – we’d love to check them out\n• You’re lifelong learner. You’re able to grasp difficult concepts and complex designs and stays on top of new and emerging technologies. Do you have a stackoverflow.com account?\nWhat you have\n• 8+ years of strong, demonstrable experience working as software developer/architect using JAVA programming language(Java, JSP, Struts, Spring, EJB, FjTask, Redis, Oracle, Maven, Github, Jenkins).\n• Good understanding of investment/trading life cycle and be familiar with compliance use cases and data requirements to support the lifecycle\n• Understanding of Security Tools and its behaviors\n• Tools : SAST DAST SCA like Veracode, BlackDuck, Whitehat, Qualys\n• Intermediate to advanced understanding of common CVEs and potential remediations\n• Understanding of commonly used Security libs (preferably Java)\n• Experience in spring/struts frameworks. Ability to lead and help the team with technical inputs.\n• Practical knowledge and use of Design Patterns (Strategy, Factory, Singleton etc)\n• Experience using ‘git’ as source control system (cherry-pick, merge conflict resolution should be second nature to you)\n• Experience working in CI/CD environment. (Bamboo) One should be able to create, modify and execute job from scratch using ‘git’ as source\n• Experience in oracle, DB2, Mongo, Redis database concepts\n• Comfort with the Atlassian toolset (Jira, Confluence, Zephyr)\n• Experience mentoring junior level engineers.\n\nPreferred Skills:\n• Bachelor’s degree in Computer Science, Engineering, Information Technology, Information Systems, or similar area of study\n• Financial Services experience is a strong plus\n\nIn addition to the salary range, this role is also eligible for bonus or incentive opportunities.\n\nWhat’s in it for you\n\nAt Schwab, you’re empowered to shape your future. We champion your growth through meaningful work, continuous learning, and a culture of trust and collaboration—so you can build the skills to make a lasting impact. Our Hybrid Work and Flexibility approach balances our ongoing commitment to workplace flexibility, serving our clients, and our strong belief in the value of being together in person on a regular basis.\n\nWe offer a competitive benefits package that takes care of the whole you – both today and in the future:\n• 401(k) with company match and Employee stock purchase plan\n• Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions\n• Paid parental leave and family building benefits\n• Tuition reimbursement\n• Health, dental, and vision insurance",
+  "job_is_remote": false,
+  "job_posted_at": "3 days ago",
+  "job_posted_at_timestamp": 1760832000,
+  "job_posted_at_datetime_utc": "2025-10-19T00:00:00.000Z",
+  "job_location": "Chicago, IL",
+  "job_city": "Chicago",
+  "job_state": "Illinois",
+  "job_country": "US",
+  "job_latitude": 41.88325,
+  "job_longitude": -87.6323879,
+  "job_benefits": ["health_insurance", "dental_coverage", "paid_time_off"],
+  "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEgCzjQDRSADDZ8E1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+  "job_min_salary": 145000,
+  "job_max_salary": 158000,
+  "job_salary_period": "YEAR",
+  "job_highlights": {
+    "Qualifications": [
+      "You solve problems through building a robust, stable, secure application development",
+      "You’re curious and hungry to learn new things and look to make a long-lasting impact on the project",
+      "You developed features and unit tested complex systems in the past",
+      "You have experience testing web applications (Angular) and data (SQL)",
+      "You are strong in Java, Spring, Struts know how to create your own REST services (in any language) and are familiar with parsing JSON and XML",
+      "You worked in an Agile environment in the past",
+      "Iterative feature development and working as part of a distributed engineering team doesn’t scare you",
+      "You’re able to grasp difficult concepts and complex designs and stays on top of new and emerging technologies",
+      "8+ years of strong, demonstrable experience working as software developer/architect using JAVA programming language(Java, JSP, Struts, Spring, EJB, FjTask, Redis, Oracle, Maven, Github, Jenkins)",
+      "Good understanding of investment/trading life cycle and be familiar with compliance use cases and data requirements to support the lifecycle",
+      "Understanding of Security Tools and its behaviors",
+      "Tools : SAST DAST SCA like Veracode, BlackDuck, Whitehat, Qualys",
+      "Intermediate to advanced understanding of common CVEs and potential remediations",
+      "Understanding of commonly used Security libs (preferably Java)",
+      "Experience in spring/struts frameworks",
+      "Ability to lead and help the team with technical inputs",
+      "Practical knowledge and use of Design Patterns (Strategy, Factory, Singleton etc)",
+      "Experience using ‘git’ as source control system (cherry-pick, merge conflict resolution should be second nature to you)",
+      "Experience working in CI/CD environment. (Bamboo) One should be able to create, modify and execute job from scratch using ‘git’ as source",
+      "Experience in oracle, DB2, Mongo, Redis database concepts",
+      "Comfort with the Atlassian toolset (Jira, Confluence, Zephyr)",
+      "Experience mentoring junior level engineers"
+    ],
+    "Benefits": [
+      "You contribute to open-source projects",
+      "In addition to the salary range, this role is also eligible for bonus or incentive opportunities",
+      "We offer a competitive benefits package that takes care of the whole you – both today and in the future:",
+      "401(k) with company match and Employee stock purchase plan",
+      "Paid time for vacation, volunteering, and 28-day sabbatical after every 5 years of service for eligible positions",
+      "Paid parental leave and family building benefits",
+      "Tuition reimbursement",
+      "Health, dental, and vision insurance"
+    ],
+    "Responsibilities": [
+      "Additionally, this role will perform the security champion for the group",
+      "Above all else you’re an engineer and a full stack developer (Data-Services-UI)"
+    ]
+  },
+  "job_onet_soc": "15113200",
+  "job_onet_job_zone": "4"
+}

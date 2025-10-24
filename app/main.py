@@ -8,18 +8,8 @@ from sentence_transformers import SentenceTransformer
 from fastapi.middleware.cors import CORSMiddleware
 import google.generativeai as genai
 import http.client
-conn = http.client.HTTPSConnection("jsearch.p.rapidapi.com")
 import os
 from dotenv import load_dotenv
-
-# Charger le fichier .env
-load_dotenv()
-
-
-
-
-
-
 
 app = FastAPI(title="Job Sync API")
 app.add_middleware(
@@ -29,6 +19,16 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+# Charger le fichier .env
+load_dotenv()
+
+
+
+
+
+
+
+
 es = Elasticsearch(
     os.getenv("ELASTIC_URL"),
     api_key=os.getenv("ELASTIC_API_KEY_ID")

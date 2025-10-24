@@ -34,6 +34,8 @@ es = Elasticsearch(
     api_key=os.getenv("ELASTIC_API_KEY_ID")
 )
 
+model = None
+
 def get_model():
     global model
     if model is None:
